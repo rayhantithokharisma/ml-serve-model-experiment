@@ -1,0 +1,8 @@
+pandas==2.1.4
+pyarrow==14.0.2
+fastparquet==2023.10.1
+numpy==1.26.2
+scipy==1.11.2
+gunicorn==21.2.0
+flask==3.0.0
+implicit==0.7.2
