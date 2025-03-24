@@ -67,5 +67,5 @@ For inquiries, collaborations, or discussions on ML deployment strategies, feel 
 ## Contact
 
 - **GitHub:** [rayhantithokharisma](https://github.com/rayhantithokharisma)
-- **Email:** [rayhantithokharisma@example.com](mailto:rayhantithokharisma@gmail.com)
+- **Email:** [rayhantithokharisma@gmail.com](mailto:rayhantithokharisma@gmail.com)
 
